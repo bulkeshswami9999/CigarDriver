@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CigarDash</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="resendOtp"><u>Resend OTP</u></string>
+    <string name="register">Don\'t have an account? <u>Signup</u></string>
+    <string name="signin">Already have an account? <u>Login</u></string>
+    <string name="otpstr">We have sent you a One Time Pin\n
+(OTP) number. Please enter 4 digit\n
+code to login</string>
+    <string name="admin_approval"> Documents has been uploaded\n
+successfully!. Please wait for\n approval to move further</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_orderhistory">Order History</string>
+    <string name="menu_contactus">Contact us</string>
+    <string name="menu_help">Help &amp; Feedback</string>
+    <string name="menu_logout">Logout</string>
+    <string name="home_second">Home Second</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map_api">AIzaSyDiOLGhzxrJ83bcji-XF4cQHyLsjuYt5qk</string>
+    <string name="state" />
+    <string name="pincode" />
+    <string-array name="status_array">
+        <item>Select Status</item>
+        <item>Delivery</item>
+        <item>Return</item>
+        <item>Not Delivered</item>
+    </string-array>
+    <string name="title_activity_current_location_maps">Map</string>
+</resources>

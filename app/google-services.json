@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812646323342",
+    "firebase_url": "https://cigardriver-8b9a4.firebaseio.com",
+    "project_id": "cigardriver-8b9a4",
+    "storage_bucket": "cigardriver-8b9a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812646323342:android:4836ca623dd4c703b465df",
+        "android_client_info": {
+          "package_name": "com.hav.cigar.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812646323342-iah34s788vpeuko62mqrt8h5vfa2i81e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hav.cigar.driver",
+            "certificate_hash": "dd15f4ff9eaf6e2dd1bc8f5aceb00f40ab8091e0"
+          }
+        },
+        {
+          "client_id": "812646323342-7get0994988him3hl7eghggg0l28duvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOORl1rizDIYZGAU3-lk85KdAkoaSv6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812646323342-7get0994988him3hl7eghggg0l28duvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
